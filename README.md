@@ -5,7 +5,7 @@ API criada durante curso de Node.js da [Digital Innovation One](dio.me) ministra
 * Express;
 * Métodos HTTP;
 * Arquitetura Rest;
-* Linguagem Typescript;
+* Typescript;
 * Bancos de dados relacionais (SQL);
 * Autenticação JWT e basic authentication;
 * REST API client (Insomnia)
