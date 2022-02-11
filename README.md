@@ -8,6 +8,7 @@ API criada durante curso de Node.js da [Digital Innovation One](dio.me) ministra
 * Linguagem Typescript;
 * Bancos de dados relacionais (SQL);
 * Autenticação JWT e basic authentication;
+* REST API client (Insomnia)
 * Variáveis de ambiente.
 
 ## Como utilizar:
